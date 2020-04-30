@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Praktikum5v2</string>
+    <string name="api_key_android">AIzaSyB0aZWcbQQ5kOqNcmH-0o5rSTbjS1-T2YA</string>
+    <string name="api_key_web">AIzaSyChHcF4pYdziKNeP0nH1fyE2pCxo4WhNnc</string>
+    <string name="FindA">Find a</string>
+    <string name="school">SCHOOL</string>
+    <string name="description">This app will help you to get \nthe nearby School around you.
+    developed \nby Ilham Hadisyah Ramadhani (2018101370311227), \nStudent of Muhammadiyahh University of Malang, 2020\n
+    Purposed for 5th practice in mobile programming course</string>
+    <string name="getStarted">Get Started</string>
+    <string name="findMe">Find My Location</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="cari">Find</string>
+</resources>
